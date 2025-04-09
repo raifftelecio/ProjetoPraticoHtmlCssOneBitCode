@@ -125,11 +125,6 @@ a {
 }
 
 .gallery__img-wrapper:nth-child(even) > .gallery__img {
-    /* 
-       ATENÇÃO: Essa propriedade não foi colocada durante a aula por falta de atenção minha,
-       ela é necessária para que a propriedade "top: 1rem;" abaixo tenha efeito.
-       Desculpe-me pela falta de atenção ^^" 
-    */
     position: relative;
     top: 1rem;
     transform: rotate(2deg);
